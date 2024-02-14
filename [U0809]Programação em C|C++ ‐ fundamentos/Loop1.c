@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /* 
-Escrever o texto boa noite 10 vezes!
+Write "Good Night World!" 10 times using while!
  */
 
 int main()
@@ -12,7 +12,7 @@ int main()
   i = 0;
   while (i < 10)
   {
-    printf("Boa noite\n");
+    printf("Good Night World!\n");
     i++;
   }
   return (0);

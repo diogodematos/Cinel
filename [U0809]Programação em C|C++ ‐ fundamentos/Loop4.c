@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /* 
-Escrever uma serie numerica de 1 a 10 com passo 1:
+Write a number serie between 1 and 10:
 1, 2, 3, 4, 5...
-Uma funcao com while, outra com do e outra com for.
+One function with while, other with for and other with do while!
  */
 
 /* int main()
