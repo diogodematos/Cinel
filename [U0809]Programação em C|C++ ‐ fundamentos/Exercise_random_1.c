@@ -6,7 +6,7 @@ int main()
 {
   system("clear");
   int num;
-  srand(time(NULL)); // iniciar o aleatorio;
+  srand(time(NULL)); // init random;
   num=(rand() % 11); // between 0 and 10
   printf("O numero sorteado foi %d!\n", num);
   num=(rand() % 6) + 5; // between 5 and 10

@@ -2,6 +2,6 @@
 
 int main()
 {
-  printf("Boa noite");
+  printf("Good Night!\n");
   return (0);
 }
